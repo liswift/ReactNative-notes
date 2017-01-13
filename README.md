@@ -1,5 +1,5 @@
-# ReactNative-notes
-RN项目笔记
+#RN项目笔记
+
 
 
 ###duplicate/undefined symbols for architecture x86_64
